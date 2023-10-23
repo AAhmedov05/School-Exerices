@@ -1,0 +1,98 @@
+body{
+    margin: 5px 20px 5px 60px;
+    width: 1300px;
+}
+nav{
+    margin: 0px 60px 0px 0px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.logo{
+    margin-right: auto;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: #50b9e1;
+}
+span{
+    color: #50b9e1;
+}
+.icons{
+    fill:black;
+    border:1px solid black;
+    border-radius: 15px;
+    padding: 2px;
+}
+.mainIcon{
+    fill:#50b9e1
+}
+svg:hover{
+    fill: #50b9e1;
+}
+.kidsBackground{
+    width: 1250px;
+    height: 650px;
+    background-image: url(kids_main.jpg);
+    background-size: cover;
+    padding-left: 20px;
+}
+.kidsPosition{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.kidsParagrapStyle{
+    font-size: 66px;
+    color: white;
+    font-weight: bold;
+}
+.kidsParagrapPosition{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    margin-top:0px ;
+    margin-bottom: 30px;
+}
+button{
+    font-size: 26px;
+    background: transparent;
+    border:2px solid white;
+    color:white;
+}
+button:hover{
+    background: #50b9e1;
+    border:2px solid #50b9e1;
+    color:white;
+}
+
+.welcomeHeader{
+    text-align: center;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: #5a7c8a;
+    letter-spacing: 2px;
+}
+.welcomeParagraph{
+    text-align: center;
+    width: 60%;
+    margin: 0 250px;
+    color: #5a7c8a;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.offeringsSection{
+    background-color: #50b9e1;
+}
