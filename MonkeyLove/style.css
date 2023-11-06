@@ -1,0 +1,73 @@
+.navUl{
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+list-style: none;
+color: orange;
+}
+
+.monkeySection{
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.6)),url(image-19.jpg) no-repeat;
+    background-size:cover;
+    width: 1200px;
+    height: 400px;
+    margin: 0px 40px 0px 60px;
+}
+.divMonkeySection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+.hrMonkey{
+    width: 5%;
+    border:1px solid #f05f40;
+    color: #f05f40;
+}
+.hrBackgroud{
+    width: 5%;
+    border:1px solid white;
+    color: white;
+}
+.monkeyOpositeSection{
+    background-color:#f05f40;
+    width: 1200px;
+    height: 300px;
+    margin: 0px 40px 0px 60px;
+}
+
+.buttonFindYourMonkey{
+    border-radius: 25px;
+    color: black;
+    background-color: white;
+    height: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.ulMonkeyTypes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+}
+.liMonkeyType{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.monkeyImage{
+    border: 2px solid #f05f40;
+}
+.monkeyImageSection{
+    border-bottom:2px solid #f05f40;
+    border-top: 2px solid #f05f40;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+}
+span{
+    color: #f05f40;
+}
+footer{
+    text-align: center;
+}

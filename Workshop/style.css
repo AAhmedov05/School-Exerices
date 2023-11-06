@@ -1,5 +1,5 @@
 body{
-    margin: 5px 20px 5px 60px;
+    margin: 5px 20px 5px 20px;
     width: 1300px;
 }
 nav{
@@ -42,7 +42,7 @@ svg:hover{
     fill: #50b9e1;
 }
 .kidsBackground{
-    width: 1250px;
+    
     height: 650px;
     background-image: url(kids_main.jpg);
     background-size: cover;
@@ -77,7 +77,9 @@ button:hover{
     border:2px solid #50b9e1;
     color:white;
 }
-
+.welcomeSection{
+padding: 50px 35px;
+}
 .welcomeHeader{
     text-align: center;
     font-size: 32px;
@@ -95,4 +97,90 @@ button:hover{
 }
 .offeringsSection{
     background-color: #50b9e1;
+}
+.offeringsHeader
+{
+    text-align: center;
+    padding: 30px 0px;
+    color: white;
+    font-size: 35px;
+    font-style: italic;
+}
+.offeringsImages{
+    width: 75px;
+    height: 75px;
+}
+
+.offerings{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.offer{
+    text-align: center;
+    color: white;
+    margin: 0 50px;
+}
+.upcomingCampsSection{
+    margin: 0px 0px 40px 0px;
+}
+.upcomingCampsHeader{
+    color: gray;
+    text-align: center;
+    margin: 40px 0px 20px 0px;
+    font-size: 30px;
+    font-style: italic;
+}
+.upcomingCamps{
+    color: gray;
+    text-align: center;
+    padding: 0px 360px;
+}
+.campImage{
+    width: 350px;
+    height: 250px;
+}
+.camp{
+        text-align: left;
+        color: gray;
+        margin: 0 50px;
+}
+.campDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.campSpan{
+    background-color: #43bae3;
+    color :white;   
+    font-size: 30px;
+}
+.campButton{
+    background: white;
+    border:2px solid #50b9e1;
+    color:#50b9e1;
+}
+.footerUL{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.footer{
+    background-color: #43bae3;
+}
+.footerSpan{
+    color: gray;
+    margin-right: 920px;
+}
+.footerIcons{
+    fill:gray;
+    border:1px solid gray;
+    border-radius: 15px;
+    padding: 2px;
+}
+b{
+    font-size: 30px;
 }
