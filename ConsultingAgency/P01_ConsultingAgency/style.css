@@ -1,0 +1,102 @@
+.navBar{
+    background-color: #8b4513;
+    width: 70%;
+}
+.navBarUL{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+    color: white;
+}
+.mainSection{
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,.6)),url(images/Layer-759_02.jpg) no-repeat;
+    background-size: cover;
+    width: 1200px;
+    height: 400px;
+    margin: 0px 40px 0px 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:20px 0px ;
+}
+.mainSectionText{
+    text-align: center;
+    color: white;
+}
+.mainSectionServiceBtn{
+    color: white;
+    background-color: black;
+}
+.mainSectionServiceBtn:hover{
+    color: black;
+    background-color: #8b4513;
+}
+.industriesTitle{
+text-align: center;
+padding: 20px 0px;
+}
+.industriesSection{
+    text-align: center;
+}
+.industriesUL{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+}
+svg{
+    fill: white;
+    padding: 10px;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 100%;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+.paragrafIndus{
+    text-align: left;
+    margin-left: 50px;
+}
+.investorsSection{
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.6)),url(images/steel-bg.jpg);
+    background-size: cover;
+    width: 1200px;
+    margin: 0px 40px 0px 60px;
+    text-align: center;
+    padding: 10px 0px;
+}
+.firstH4{
+    color: #f9d1af;
+    margin-bottom: 0px;
+}
+.grayH4{
+    color: gray;
+    margin-top: 0px;
+}
+.tradersSection{
+    background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.6)),url(images/background-choose-us.jpg);
+    background-size: cover;
+    width: 1200px;
+    margin: 0px 40px 0px 60px;
+}
+.tradersHeader{
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+}
+.tradersUl{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+}
+.tradersLi{
+    color: white;
+    border: 2px solid #8b4513; 
+    text-align: right;  
+}
