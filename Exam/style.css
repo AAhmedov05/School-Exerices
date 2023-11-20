@@ -1,0 +1,154 @@
+body{
+    margin: 10px 20px 10px 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.whiteBoardSection{
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.6)), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3r77tH2F3NhyE7Zac5_Y4KAwdiG3N6Ba4A&usqp=CAU);
+    background-size: cover;
+    width: 1200px;
+    height: 500px;
+}
+.whiteboardTexts{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.svgWhite{
+    fill: white;
+}
+.ulWhiteBoardIdeas{
+    padding-top:20px ;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+    color: white;
+}
+.whiteboardP{
+    width: 550px;
+    font-size: 24px;
+    text-align: center;
+}
+button{
+    color: white;
+    border: green solid 2px;
+    border-radius: 2px;
+    background-color: green;
+    margin: 10px 0 0 0;
+    padding: 10px 20px;
+    font-size: large;
+    font-weight: bold;
+    transition: all 0.7s ease;
+    transform: scale(1);
+}
+button:hover
+{
+    color: white;
+    border: white solid 2px;
+    border-radius: 2px;
+    background-color: transparent;
+    margin: 10px 0 0 0;
+    padding: 10px 20px;
+    font-size: large;
+    font-weight: bold;  
+    transform: scale(1.2);
+
+}
+h1{
+    font-size: 52px;
+}
+h2{
+    font-size: 28px;
+}
+.hrefBoard{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
+.calendarSection{
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    height: 500px;
+    margin-top: 50px;
+}
+.calendarArtical{
+    margin-left: 60px;
+}
+.svgGreen{
+    fill: green;
+}
+.ulCalendar{
+    margin-top: 50px;
+    list-style: none;
+}
+.liCalendar{
+    margin-top: 35px;
+    font-size: 24px;
+}
+.pCalendar{
+    font-size: 24px;
+
+}
+
+.questionSection{
+    background-color: #b2f1dd;
+}
+.h3Question{
+    font-size: 28px;
+    text-align: center;
+    padding: 20px;
+}
+.ulQuestions{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #b2f1dd;
+}
+.ulFlovers{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+    gap: 80px;
+}
+h4{
+    color: #00d08e;
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+}
+.divFlovers{
+    display: flex;
+    flex-direction: column;
+}
+.iconsImg{
+    width: 100px;
+    height: 100px;
+}
+.articalFlovers{
+    margin-right: 64px;
+}
+.divQuestion{
+    text-align: center;
+}
+.liQuestion{
+    width: 33%;   
+}
+.svgArrow:hover{
+    transform: translateX(100%);
+}
+.liNAV:hover{
+    letter-spacing: 5px;
+}
+li{
+    transition: all 0.6s ease;
+}
