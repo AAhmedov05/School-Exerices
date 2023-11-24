@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Permutation_Combinations/1.0.0": {
+        "runtime": {
+          "Permutation_Combinations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Permutation_Combinations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

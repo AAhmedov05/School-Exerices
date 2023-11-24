@@ -1,0 +1,16 @@
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\bin\Debug\net5.0\Combinations.exe
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\bin\Debug\net5.0\Combinations.deps.json
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\bin\Debug\net5.0\Combinations.runtimeconfig.json
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\bin\Debug\net5.0\Combinations.runtimeconfig.dev.json
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\bin\Debug\net5.0\Combinations.dll
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\bin\Debug\net5.0\ref\Combinations.dll
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\bin\Debug\net5.0\Combinations.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\obj\Debug\net5.0\Combinations.csproj.AssemblyReference.cache
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\obj\Debug\net5.0\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\obj\Debug\net5.0\Combinations.AssemblyInfoInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\obj\Debug\net5.0\Combinations.AssemblyInfo.cs
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\obj\Debug\net5.0\Combinations.csproj.CoreCompileInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\obj\Debug\net5.0\Combinations.dll
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\obj\Debug\net5.0\ref\Combinations.dll
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\obj\Debug\net5.0\Combinations.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Combinations\obj\Debug\net5.0\Combinations.genruntimeconfig.cache

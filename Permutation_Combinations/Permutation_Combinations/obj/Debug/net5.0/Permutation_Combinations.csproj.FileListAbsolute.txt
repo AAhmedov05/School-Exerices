@@ -1,0 +1,16 @@
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\bin\Debug\net5.0\Permutation_Combinations.exe
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\bin\Debug\net5.0\Permutation_Combinations.deps.json
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\bin\Debug\net5.0\Permutation_Combinations.runtimeconfig.json
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\bin\Debug\net5.0\Permutation_Combinations.runtimeconfig.dev.json
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\bin\Debug\net5.0\Permutation_Combinations.dll
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\bin\Debug\net5.0\ref\Permutation_Combinations.dll
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\bin\Debug\net5.0\Permutation_Combinations.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\obj\Debug\net5.0\Permutation_Combinations.csproj.AssemblyReference.cache
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\obj\Debug\net5.0\Permutation_Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\obj\Debug\net5.0\Permutation_Combinations.AssemblyInfoInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\obj\Debug\net5.0\Permutation_Combinations.AssemblyInfo.cs
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\obj\Debug\net5.0\Permutation_Combinations.csproj.CoreCompileInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\obj\Debug\net5.0\Permutation_Combinations.dll
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\obj\Debug\net5.0\ref\Permutation_Combinations.dll
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\obj\Debug\net5.0\Permutation_Combinations.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\Permutation_Combinations\Permutation_Combinations\obj\Debug\net5.0\Permutation_Combinations.genruntimeconfig.cache
