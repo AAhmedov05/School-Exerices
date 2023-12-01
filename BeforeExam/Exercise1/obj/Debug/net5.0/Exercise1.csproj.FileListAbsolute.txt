@@ -1,0 +1,16 @@
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\bin\Debug\net5.0\Exercise1.exe
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\bin\Debug\net5.0\Exercise1.deps.json
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.json
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\bin\Debug\net5.0\Exercise1.runtimeconfig.dev.json
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\bin\Debug\net5.0\Exercise1.dll
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\bin\Debug\net5.0\ref\Exercise1.dll
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\bin\Debug\net5.0\Exercise1.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\obj\Debug\net5.0\Exercise1.csproj.AssemblyReference.cache
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\obj\Debug\net5.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfoInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\obj\Debug\net5.0\Exercise1.AssemblyInfo.cs
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\obj\Debug\net5.0\Exercise1.csproj.CoreCompileInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\obj\Debug\net5.0\Exercise1.dll
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\obj\Debug\net5.0\ref\Exercise1.dll
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\obj\Debug\net5.0\Exercise1.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\BeforeExam\Exercise1\obj\Debug\net5.0\Exercise1.genruntimeconfig.cache
