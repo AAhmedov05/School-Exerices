@@ -3,60 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Admission Page</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="Snimki vipuski/logo-ptg-red-89-70.png">
 </head>
 <body>
     <header>
-        <img class="logo" src="logo-ptg-red-89-70.png" alt="">
+        <a href="index.html"><img class="logo" src="Snimki vipuski/logo-ptg-red-89-70.png" alt=""></a>
         <nav id="mainMenu">
-            <li class="current"><a href="index.html">Начало</a></li>
-            <li id="menu"><a href="#">Специалности</a></li>
+            <li class="currentPage"><a href="index.html">Начало</a></li>
+            <li id="specialties"><a href="#">Специалности</a></li>
+            <li><a href="#">Контакти</a></li>
         </nav>
-        <nav id="menuSpec">
+        <nav id="menuSpecialties">
             <li><a href="ProgrammingP.html">Приложно Програмиране</a></li>
             <li><a href="KTT.html">Компютърна Техника и Технологии</a></li>
             <li><a href="EMA.html">Електрически Машини и Апарати</a></li>
         </nav>
     </header>
-    <section class="sectionNews">
-        <img class="newsImg" src="tmp-img2-484-358.png" alt="">
+    <section class="homeSection">
+        <img class="homeImg" src="Snimki vipuski/tmp-img2-484-358.png" alt="">
     </section>
     <section>
-            <!-- <nav class="navPhotos photos">
-                <ul class="photosSlide">
-                    <img class="img" src="https://ptgrz.org/public/images/news/412/1701980657.jpg" alt="">
-                    <img class="img" src="https://ptgrz.org/public/images/news/412/1701980657.jpg" alt="">
-                    <img class="img" src="https://ptgrz.org/public/images/news/412/1701980657.jpg" alt="">
-                    <img class="img" src="https://ptgrz.org/public/images/news/412/1701980657.jpg" alt="">
-                    <img class="img" src="https://ptgrz.org/public/images/news/412/1701980657.jpg" alt="">
-                    <img class="img" src="https://ptgrz.org/public/images/news/412/1701980657.jpg" alt="">
-                </ul>
-            </nav>  -->
         <div class="logos">
             <div class="logos-slide">
-              <img src="g13-14.png"/>
-              <img src="g14-15.png"/>
-              <img src="g15-16.png"/>
-              <img src="g16-17.png"/>
-              <img src="g17-18.png"/>
-              <img src="g19-20.png"/>
-              <img src="g20-21.png"/>
-              <img src="g21-22.png"/>
-              <img src="g22-23.png"/>
+              <img src="Snimki vipuski/g13-14.png"/>
+              <img src="Snimki vipuski/g14-15.png"/>
+              <img src="Snimki vipuski/g15-16.png"/>
+              <img src="Snimki vipuski/g16-17.png"/>
+              <img src="Snimki vipuski/g17-18.png"/>
+              <img src="Snimki vipuski/g19-20.png"/>
+              <img src="Snimki vipuski/g20-21.png"/>
+              <img src="Snimki vipuski/g21-22.png"/>
+              <img src="Snimki vipuski/g22-23.png"/>
             </div>
           </div>
     </section>
-    <!-- <marquee direction="">
-        <img src="g14-15.png"/>
-        <img src="g15-16.png"/>
-        <img src="g16-17.png"/>
-        <img src="g17-18.png"/>
-        <img src="g19-20.png"/>
-        <img src="g20-21.png"/>
-        <img src="g21-22.png"/>
-        <img src="g22-23.png"/>
-    </marquee> -->
     <script src="app.js">
         var copy = document.querySelector(".logos-slide").cloneNode(true);
       document.querySelector(".logos").appendChild(copy);

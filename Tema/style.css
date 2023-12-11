@@ -1,6 +1,7 @@
 .logo{
     padding: 20px 100px;
 }
+
 nav{
     margin: 20px 0px;
     display: flex;
@@ -13,72 +14,37 @@ nav{
     border-radius: 05px;
     padding: 20px;
 }
-.current{
+
+#menuSpecialties{
+  display: none;
+}
+
+.homeSection{
+  display: flex;
+  justify-content: center;
+  background-color: #5a1f21;
+  border-radius: 2px;
+}
+
+.homeImg{
+  width: 50%;
+}
+
+.specialtySections{
+  padding: 20px 50px; 
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.currentPage{
     border-bottom:1px solid white;
 }
 
-/* @keyframes translatee{
-    from{
-        transform: translate(0,0);
-    }
 
-    to{
-        transform: translate(-100%,0);
-    }
-} */
 
-/* .photos{
-    overflow: hidden;
-    padding: 60px 0px;
-    white-space: nowrap;
-}
-.photosSlide{
-    display: inline-block;
-    animation: translatee 2s linear infinite;
-} */
-
-.sectionNews{
-display: flex;
-justify-content: center;
-background-color: #5a1f21;
-border-radius: 2px;
-}
-.newsImg{
-width: 50%;
-}
-h1{
-    text-align: center;
-    width: 250px;
-}
-.divHeader{
-    display: flex;
-    flex-direction: row;
-    justify-content:space-around;
-    gap: 15px;
-}
-.sectionPP{
-    padding: 20px 50px; 
-}
-a{
-    text-decoration: none;
-    color: white;
-}
-#menuSpec{
-    display: none;
-}
-/* .img{
-    width: 200px;
-    background-repeat: no-repeat;
-    border-radius: 2px;    
-}
-
-.navPhotos{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    gap: 10px;
-    
-} */
 @media(max-width:600px){
     nav{
         gap:20px;
@@ -92,7 +58,6 @@ a{
         font-family: 'Times New Roman', Times, serif;
     }
     .logo{
-        /* padding: 20px 25px;    */
         text-align: left;
         padding: 20px 10px;
     }

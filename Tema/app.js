@@ -1,8 +1,8 @@
-const menu=document.getElementById("menu")
+const menu=document.getElementById("specialties")
 
 menu.addEventListener("click",manageMenuClick)
 
 function manageMenuClick(){
    document.getElementById("mainMenu").style.display="none"
-   document.getElementById("menuSpec").style.display="flex"
+   document.getElementById("menuSpecialties").style.display="flex"
 }
