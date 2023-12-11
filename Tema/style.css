@@ -7,11 +7,41 @@ nav{
     flex-direction: row;
     list-style: none;
     justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    background-color: #5a1f21;
+    border-radius: 05px;
+    padding: 20px;
 }
+.current{
+    border-bottom:1px solid white;
+}
+
+/* @keyframes translatee{
+    from{
+        transform: translate(0,0);
+    }
+
+    to{
+        transform: translate(-100%,0);
+    }
+} */
+
+/* .photos{
+    overflow: hidden;
+    padding: 60px 0px;
+    white-space: nowrap;
+}
+.photosSlide{
+    display: inline-block;
+    animation: translatee 2s linear infinite;
+} */
+
 .sectionNews{
 display: flex;
 justify-content: center;
 background-color: #5a1f21;
+border-radius: 2px;
 }
 .newsImg{
 width: 50%;
@@ -27,5 +57,99 @@ h1{
     gap: 15px;
 }
 .sectionPP{
-    padding: 20px 50px;
+    padding: 20px 50px; 
 }
+a{
+    text-decoration: none;
+    color: white;
+}
+#menuSpec{
+    display: none;
+}
+/* .img{
+    width: 200px;
+    background-repeat: no-repeat;
+    border-radius: 2px;    
+}
+
+.navPhotos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 10px;
+    
+} */
+@media(max-width:600px){
+    nav{
+        gap:20px;
+        align-items: center;
+        background-color: #5a1f21;
+        border-radius: 05px;
+        padding: 5px;
+    }
+    a{
+        color:white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .logo{
+        /* padding: 20px 25px;    */
+        text-align: left;
+        padding: 20px 10px;
+    }
+    .sectionNews{
+        border-radius: 05px;
+    }
+}
+  
+  @keyframes slide {
+    from {
+      transform: translateX(50%);
+    }
+    to {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .logos {
+    overflow: hidden;
+    padding: 60px 0;
+    background: white;
+    white-space: nowrap;
+    position: relative;
+  }
+  
+  .logos:before,
+  .logos:after {
+    position: absolute;
+    top: 0;
+    width: 450px;
+    height: 100%;
+    content: "";
+    z-index: 2;
+  }
+  
+  .logos:before {
+    left: 0;
+    background: linear-gradient(to left, rgba(255, 255, 255, 0), white);
+  }
+  
+  .logos:after {
+    right: 0;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0), white);
+  }
+  
+  .logos:hover .logos-slide {
+    animation-play-state: paused;
+  }
+  
+  .logos-slide {
+    display: inline-block;
+    animation: 20s slide infinite linear;
+  }
+  
+  .logos-slide img {
+    height: 350px;
+    width: 500px;
+    background-size: cover;
+    margin: 0 40px;
+  }
