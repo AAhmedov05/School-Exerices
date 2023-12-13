@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="Print"></h1>
+    <script>
+        function theNumber()
+        {
+            let num=prompt("Enter number")
+            if(num.includes(5))
+                return "Its include five!"
+            
+            else
+                return "Its not include five!"
+        }
+        document.getElementById("Print").innerHTML=theNumber()
+    </script>
+</body>
+</html>
