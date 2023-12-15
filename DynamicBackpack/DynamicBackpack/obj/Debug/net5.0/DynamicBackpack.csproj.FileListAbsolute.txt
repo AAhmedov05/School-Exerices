@@ -1,0 +1,16 @@
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\bin\Debug\net5.0\DynamicBackpack.exe
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\bin\Debug\net5.0\DynamicBackpack.deps.json
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\bin\Debug\net5.0\DynamicBackpack.runtimeconfig.json
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\bin\Debug\net5.0\DynamicBackpack.runtimeconfig.dev.json
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\bin\Debug\net5.0\DynamicBackpack.dll
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\bin\Debug\net5.0\ref\DynamicBackpack.dll
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\bin\Debug\net5.0\DynamicBackpack.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\obj\Debug\net5.0\DynamicBackpack.csproj.AssemblyReference.cache
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\obj\Debug\net5.0\DynamicBackpack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\obj\Debug\net5.0\DynamicBackpack.AssemblyInfoInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\obj\Debug\net5.0\DynamicBackpack.AssemblyInfo.cs
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\obj\Debug\net5.0\DynamicBackpack.csproj.CoreCompileInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\obj\Debug\net5.0\DynamicBackpack.dll
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\obj\Debug\net5.0\ref\DynamicBackpack.dll
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\obj\Debug\net5.0\DynamicBackpack.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\DynamicBackpack\DynamicBackpack\obj\Debug\net5.0\DynamicBackpack.genruntimeconfig.cache
