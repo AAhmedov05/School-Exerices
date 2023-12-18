@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Mountains of Christmas', serif;
+}
+
+#homepage{
+    background-image: url(Image/background.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+
+}
+
+.snowflake{
+    width: 20%;
+    position: relative;
+}
+
+.item1{
+    top: -170px;
+    left: 45%;
+    width: 300px;
+}
+.item2{
+    top: 110px;
+    left: 67%;
+    width: 300px;
+}
+.item3{
+    top: 595px;
+    left: -10%;
+    width: 300px;
+}
+.item4{
+    top: 175px;
+    left: 8%;
+    width: 75px;
+    transition: all 0.7s ease;
+}
+.item4:hover{
+    transform:scale(1.2);
+}
+
+.snowFall {
+    animation: snowfall 7s forwards;
+}
+
+@keyframes snowfall{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(400%);
+    }
+}
+
+.trans{
+    animation: tran 5s ease forwards;
+}
+
+.textStyle{
+    display: block;
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 7rem;
+    margin-top: -.5em;
+}
+
+.textStyle::after{
+    content: "";
+    display: block;
+    width: 40%;
+    height: 3px;
+    background-color: #DB1F48;
+    border: 1px solid #DB1F48;
+    margin-left: 400px;
+    margin-top: 10px;
+    border-radius: 5pt;
+}
+
+@keyframes tran{
+    from{opacity: 0; transition: all 0.7s;}
+    to{opacity: 1;}
+}
