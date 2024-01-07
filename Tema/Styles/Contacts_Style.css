@@ -1,0 +1,52 @@
+.contactsSection{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #5a1f21;
+  border-radius: 5px;
+}
+
+.contactsDiv{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    color: white;
+}
+
+.contactsDiv input{
+    border-radius: 20px;
+    width: 400px;
+    height: 25px;
+}
+
+.contactsDiv h2{
+    margin: 5px;
+}
+
+.sendEmail{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.sendEmail:hover{
+    background: linear-gradient(-80deg, #345171 50%, #5a1f21 50%);
+    color: white;
+    border: 2px solid white
+}
+
+iframe{
+    /* filter: invert(100%); */
+    border-radius: 5px;
+}
+
+textarea{
+    resize: none;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+}

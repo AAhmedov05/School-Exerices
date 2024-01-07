@@ -1,7 +1,20 @@
-.logo{
+/* .logo{
     padding: 20px 100px;
 }
-
+header{
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+.title{
+  display: flex;
+  flex-direction: row; 
+  gap: 250px;
+  text-align: center;
+  color: black;
+  font-size: 14px;
+}
 nav{
     margin: 20px 0px;
     display: flex;
@@ -10,6 +23,7 @@ nav{
     justify-content: space-around;
     text-align: center;
     align-items: center;
+    border-top:5px solid #345171;
     background-color: #5a1f21;
     border-radius: 05px;
     padding: 20px;
@@ -17,13 +31,13 @@ nav{
 
 #menuSpecialties{
   display: none;
-}
+} */
 
 .homeSection{
   display: flex;
   justify-content: center;
   background-color: #5a1f21;
-  border-radius: 2px;
+  border-radius: 5px;
 }
 
 .homeImg{
@@ -43,8 +57,35 @@ a{
     border-bottom:1px solid white;
 }
 
+.spanVipuski{
+  padding: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 48px;
+  font-weight: bolder;
+  letter-spacing: 2px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.contactsSection{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 20px;
+  background-color: #5a1f21;
+  border-radius: 5px;
+}
+/* .contactsForm{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 20px;
+} */
 
-
+iframe{
+  /* filter: invert(100%); */
+  border-radius: 5px;
+}
 @media(max-width:600px){
     nav{
         gap:20px;
@@ -68,11 +109,11 @@ a{
   
   @keyframes slide {
     from {
-      transform: translateX(50%);
+      transform: translateX(0%);
     }
-    to {
+     to {
       transform: translateX(-100%);
-    }
+    } 
   }
   
   .logos {
@@ -108,7 +149,7 @@ a{
   }
   
   .logos-slide {
-    display: inline-block;
+    display: inline-block; 
     animation: 20s slide infinite linear;
   }
   
@@ -118,3 +159,82 @@ a{
     background-size: cover;
     margin: 0 40px;
   }
+  .imgZ:hover{
+    scale: 1.5;
+  }
+  textarea{
+    resize: none;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+  }
+  .contactsDiv{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    color: white;
+  }
+  .contactsDiv input{
+    border-radius: 20px;
+    width: 400px;
+    height: 25px;
+  }
+  .contactsDiv h2{
+    margin: 5px;
+  }
+  .sendEmail{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 400px;
+    border-radius: 20px;
+  }
+  .sendEmail:hover{
+    background: linear-gradient(-80deg, #345171 50%, #5a1f21 50%);
+    color: white;
+    border: 2px solid white
+  }
+  footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+    background-color: #345171;
+    border-radius: 5px;
+    height: 50px;
+    border-top:5px solid #5a1f21;
+  }
+  .copyright{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    gap: 5px;
+    color: white;
+    fill: white;
+  }
+  .socialmedia{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    padding: 12.5px;
+    
+  }
+  .socialmedia svg{
+    fill: white;
+  }
+  .titleWImg{
+    display: flex;
+    flex-direction: row;
+  }
+  .tryImg{
+    float: right;
+  }
+/* .theYear{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    background-color: #5a1f21;
+    border-radius: 20px
+  } */
