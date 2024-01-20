@@ -1,0 +1,15 @@
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\bin\Debug\net6.0\NumbersOfTriangle.exe
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\bin\Debug\net6.0\NumbersOfTriangle.deps.json
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\bin\Debug\net6.0\NumbersOfTriangle.runtimeconfig.json
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\bin\Debug\net6.0\NumbersOfTriangle.dll
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\bin\Debug\net6.0\NumbersOfTriangle.pdb
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\obj\Debug\net6.0\NumbersOfTriangle.csproj.AssemblyReference.cache
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\obj\Debug\net6.0\NumbersOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\obj\Debug\net6.0\NumbersOfTriangle.AssemblyInfoInputs.cache
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\obj\Debug\net6.0\NumbersOfTriangle.AssemblyInfo.cs
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\obj\Debug\net6.0\NumbersOfTriangle.csproj.CoreCompileInputs.cache
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\obj\Debug\net6.0\NumbersOfTriangle.dll
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\obj\Debug\net6.0\refint\NumbersOfTriangle.dll
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\obj\Debug\net6.0\NumbersOfTriangle.pdb
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\obj\Debug\net6.0\NumbersOfTriangle.genruntimeconfig.cache
+D:\Code\NumbersOfTriangle\NumbersOfTriangle\obj\Debug\net6.0\ref\NumbersOfTriangle.dll
