@@ -1,11 +1,10 @@
 .homeSection{
   display: flex;
   justify-content: center;
-  background-color: #5a1f21;
+  background: linear-gradient(-80deg, #345171 50%, #5a1f21 50%); 
   border-radius: 5px;
   box-shadow: 1px 3px 5px 7px #345171;
 }
-  
 .homeImg{
   width: 50%;
 }
@@ -80,6 +79,7 @@
   scale: 1.5;
 }
 
+
 .TheTops{
   margin: 50px 0;
   background-color: #345171;
@@ -109,7 +109,7 @@ li h2{
   padding-bottom: 2em;
   position: relative;
 }
-.checkpoint div{
+.TheTop{
   border: 2px solid #5a1f21;
   border-radius: 1em;
   padding: 1em;
@@ -183,11 +183,292 @@ h3{
 } 
 
 .checkpoint div img{
+  margin: 10px;
   width: 125px;
   height: 125px;
+  border-radius: 5px;
 }
  
 .checkpoint:nth-child(odd) div img,
 .checkpoint:nth-child(even) div img{
   float: left;
+}
+/* @media only screen and (max-width:320px)
+{
+  .TheTops{
+    overflow: hidden;
+  }
+  .TheTop{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #5a1f21;
+    border-radius: 1em;
+    padding: 1em;
+    min-height: 200px;
+    width: 130px;
+  }  
+
+  .TheTop:nth-child(even){
+    margin-left: 5px;
+  }
+
+  .checkpoint:nth-child(odd){
+    border-left: 3px solid #5a1f21;
+    padding-left: 3em;
+    transform: translateX(80px);
+    padding-left: 43px;
+  }
+  
+  .checkpoint:nth-child(even){
+    border-right: 3px solid #5a1f21;
+    padding-right: 3em;
+    transform: translateX(-117px);
+    padding-left: 142px;
+    padding-right:0 ;
+  }
+
+  .checkpoint:nth-child(even) h3{
+    margin-right: 50px;
+    text-align: right;
+  } 
+  .checkpoint:nth-child(odd) div img,
+  .checkpoint:nth-child(even) div img{
+    float: left;
+    height: 75px;
+    width: 75px;
+  }
+  .TheTop p{
+    font-size: 12px;
+  }
+} */
+
+/*@media only screen and (max-width:767px)  
+{  smartphones, Android phones, landscape iPhone 480px 
+  .homeSection{
+    height: 250px;
+  }
+  .spanGraduates{
+    padding: 15px;
+    font-size: 34px;
+  }
+  .logos {
+    overflow: hidden;
+    padding: 20px 0;
+    background: white;
+    white-space: nowrap;
+    position: relative;
+  }
+  .logos-slide img{
+    height: 250px;
+    width: 400px;
+    background-size: cover;
+    margin: 0 20px;
+  }
+  .imgZ:hover{
+    scale: 1.1;
+  }
+  .logos:before,
+  .logos:after{
+    position: absolute;
+    top: 0;
+    width: 75px;
+    height: 100%;
+    content: "";
+    z-index: 2;
+  }
+
+  .TheTops{
+    overflow: hidden;
+  }
+  .TheTop{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #5a1f21;
+    border-radius: 1em;
+    padding: 1em;
+    min-height: 350px;
+    width: 130px;
+  }  
+
+  .TheTop:nth-child(even){
+    margin-left: 5px;
+  }
+
+  .checkpoint:nth-child(odd){
+    border-left: 3px solid #5a1f21;
+    padding-left: 3em;
+    transform: translateX(175px);
+    padding-left: 43px;
+  }
+  
+  .checkpoint:nth-child(even){
+    border-right: 3px solid #5a1f21;
+    padding-right: 3em;
+    transform: translateX(-185px);
+    padding-left: 142px;
+    padding-right:0 ;
+  }
+
+  .checkpoint:nth-child(even) h3{
+    margin-right: 50px;
+    text-align: right;
+  } 
+}*/ 
+
+@media only screen and (max-width:767px){
+  .homeSection{
+    height: 250px;
+  }
+  .homeImg{
+    width: 320px;
+  }
+  .spanGraduates{
+    padding: 15px;
+    font-size: 34px;
+  }
+  .logos {
+    overflow: hidden;
+    padding: 20px 0;
+    background: white;
+    white-space: nowrap;
+    position: relative;
+  }
+  .logos-slide img{
+    height: 250px;
+    width: 400px;
+    background-size: cover;
+    margin: 0 20px;
+  }
+  .imgZ:hover{
+    scale: 1.1;
+  }
+  .logos:before,
+  .logos:after{
+    position: absolute;
+    top: 0;
+    width: 75px;
+    height: 100%;
+    content: "";
+    z-index: 2;
+  }
+  .TheTops{
+    overflow: hidden;
+  }
+  .TopsTitle{
+    padding: 0px;
+  }
+  .timeline{
+    padding: 0px;
+  }
+  .checkpoint{
+    border: none!IMPORTANT;
+    padding: 0px!IMPORTANT;
+  }
+  .checkpoint:nth-child(odd){
+    transform: translateX(0px);
+  }
+  
+  .checkpoint:nth-child(even){
+    transform: translateX(0px);
+  }
+
+  .checkpoint:nth-child(odd) h3,
+  .checkpoint:nth-child(even) h3{
+    margin-left: 20px;
+    text-align: left;
+  } 
+  .checkpoint:nth-child(odd)::before,
+  .checkpoint:nth-child(even)::before{
+    content: none;
+  }
+  .checkpoint:nth-child(odd) div::before,
+  .checkpoint:nth-child(even) div::before{
+    content: none;
+  }
+  .TheTop{
+    padding: 5px;
+    min-height: 250px;
+  }
+}
+
+@media only screen and (min-width:768px) and (max-width:1023px){
+  .logos {
+    overflow: hidden;
+    padding: 20px 0;
+    background: white;
+    white-space: nowrap;
+    position: relative;
+  }
+  .logos-slide img{
+    height: 250px;
+    width: 400px;
+    background-size: cover;
+    margin: 0 20px;
+  }
+  .imgZ:hover{
+    scale: 1.1;
+  }
+  .logos:before,
+  .logos:after{
+    position: absolute;
+    top: 0;
+    width: 75px;
+    height: 100%;
+    content: "";
+    z-index: 2;
+  }
+
+  .TheTops{
+    overflow: hidden;
+  }
+  .TheTop{
+    max-width: 250px;
+    min-height: 250px;
+    padding: 1em;
+    border: 2px solid #5a1f21;
+    border-radius: 1em;
+  }  
+  .checkpoint:nth-child(odd){
+    border-left: 3px solid #5a1f21;
+    padding-left: 3em;
+    transform: translateX(250px);
+  }
+  .checkpoint:nth-child(even){
+    border-right: 3px solid #5a1f21;
+    padding-right: 3em;
+    padding-left: 13em;
+    transform: translateX(-293px);
+  }
+  .checkpoint:nth-child(even) h3{
+    margin: 0 10px 0 0;
+    text-align: right;
+  } 
+} 
+
+@media only screen and (min-width:1024px) and (max-width:1919px){
+  .TheTops{
+    overflow: hidden;
+  }
+  .TheTop{
+    max-width: 350px;
+    min-height: 200px;
+    padding: 1em;
+    border: 2px solid #5a1f21;
+    border-radius: 1em;
+  }  
+  .checkpoint:nth-child(odd){
+    border-left: 3px solid #5a1f21;
+    padding-left: 3em;
+    transform: translateX(250px);
+  }
+  .checkpoint:nth-child(even){
+    border-right: 3px solid #5a1f21;
+    padding-right: 3em;
+    padding-left: 7em;
+    transform: translateX(-293px);
+  }
+  .checkpoint:nth-child(even) h3{
+    margin: 0 10px 0 0;
+    text-align: right;
+  } 
 }

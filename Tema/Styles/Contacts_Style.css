@@ -1,10 +1,16 @@
 .contactsSection{
   display: flex;
-  flex-direction: row;
   justify-content: space-evenly;
   padding: 20px;
-  background-color: #5a1f21;
+  background-color: #345171;
   border-radius: 5px;
+}
+
+iframe{
+    /* filter: invert(100%); */
+    border-radius: 5px;
+    width:600px; 
+    height:450px;
 }
 
 .contactsDiv{
@@ -15,21 +21,37 @@
     color: white;
 }
 
-.contactsDiv input{
-    border-radius: 20px;
-    width: 400px;
-    height: 25px;
-}
-
 .contactsDiv h2{
     margin: 5px;
+    font-size: 34px;
+}
+
+.contactsDiv label{
+    margin: 5px 5px 0px 5px;
+    align-self: flex-start; 
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.contactsDiv input{
+    height: 25px;
+    width: 400px;
+    border-radius: 20px;
+    border-color: transparent;
+}
+
+textarea{
+    height: 200px;
+    width: 400px;
+    resize: none;
+    border-radius: 5px;
 }
 
 .sendEmail{
+    width: 400px;
     font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
-    width: 400px;
     border-radius: 20px;
 }
 
@@ -39,14 +61,117 @@
     border: 2px solid white
 }
 
-iframe{
-    /* filter: invert(100%); */
-    border-radius: 5px;
+
+@media only screen and (max-width:767px){
+    
+    .contactsSection{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 50px;
+    }
+    iframe{
+        height: 300px;
+        width: 300px;
+    }
+    .contactsDiv{
+        align-items: center;
+    }
+    .contactsDiv h2{
+        margin: 10px 0px;
+        align-self: center;
+        font-size: 30px;
+    }
+    .contactsDiv label{
+        margin: 10px 5px 0px 5px;
+        align-self: center;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .contactsDiv input{
+        height: 25px;
+        width: 300px;
+        border: 2px solid #5a1f21;
+        border-radius: 5px;
+        background-color: whitesmoke;
+        color: white;
+    }
+    input::placeholder{
+        color: gray;
+    }
+    input:focus{
+        color: white;
+    }
+    textarea{
+        width: 300px;
+    }
+    .sendEmail{
+        width: 300px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:1023px)
+{
+    .contactsSection{
+        gap: 50px;
+    }
+    iframe{
+        height: 500px;
+        width: 350px;
+    }
+    .contactsDiv{
+        align-items: center;
+    }
+    .contactsDiv h2{
+        margin: 10px 0px;
+        align-self: center;
+        font-size: 30px;
+    }
+    .contactsDiv label{
+        margin: 10px 5px 0px 5px;
+        align-self: center;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .contactsDiv input{
+        height: 25px;
+        width: 300px;
+        border: 2px solid #5a1f21;
+        border-radius: 5px;
+        background-color: whitesmoke;
+        color: white;
+    }
+    input::placeholder{
+        color: gray;
+    }
+    input:focus{
+        color: white;
+    }
+    textarea{
+        width: 300px;
+    }
+    .sendEmail{
+        width: 300px;
+    }
 }
 
-textarea{
-    resize: none;
-    width: 400px;
-    height: 200px;
-    border-radius: 10px;
+@media only screen and (min-width:1024px) and (max-width:1919px)
+{
+    .contactsSection{
+        gap: 50px;
+    }
+    iframe{
+        height: 500px;
+        width: 500px;
+    }
+    .contactsDiv label{
+        margin: 15px 5px 0px 5px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    input::placeholder{
+        color: gray;
+    }
+    input:focus{
+        color: white;
+    }
 }
