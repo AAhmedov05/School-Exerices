@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-start" >
+    <h1 class="display-4">Welcome</h1>
+    <hr>
+    <span id="idd"></span></p>
+</div>
+<style>
+    div {
+        color:white;
+        background-color:green;
+        border-radius:10px;
+    }
+    hr{
+        border:2px solid white;
+    }
+
+</style>
+<script>
+    const timeElapsed = Date.now();
+    const today = new Date(timeElapsed);
+
+    document.getElementById("idd").innerHTML += today.toDateString();
+</script>

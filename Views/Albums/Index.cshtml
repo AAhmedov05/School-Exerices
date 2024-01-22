@@ -1,0 +1,21 @@
+﻿@model IEnumerable<IRunes.Models.Album>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Welcome to IRunes</h1>
+<hr>
+
+<table class="table" >
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td class="text-white border-0" style="padding:0px!important;">
+                @Html.DisplayNameFor(model => model.Name): @Html.DisplayFor(modelItem => item.Name) - 
+                @Html.DisplayNameFor(model => model.Price): @Html.DisplayFor(modelItem => item.Price)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
