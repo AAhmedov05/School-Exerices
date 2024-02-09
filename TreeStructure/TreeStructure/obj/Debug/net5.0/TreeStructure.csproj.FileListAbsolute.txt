@@ -1,0 +1,16 @@
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\bin\Debug\net5.0\TreeStructure.exe
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\bin\Debug\net5.0\TreeStructure.deps.json
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\bin\Debug\net5.0\TreeStructure.runtimeconfig.json
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\bin\Debug\net5.0\TreeStructure.runtimeconfig.dev.json
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\bin\Debug\net5.0\TreeStructure.dll
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\bin\Debug\net5.0\ref\TreeStructure.dll
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\bin\Debug\net5.0\TreeStructure.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\obj\Debug\net5.0\TreeStructure.csproj.AssemblyReference.cache
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\obj\Debug\net5.0\TreeStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\obj\Debug\net5.0\TreeStructure.AssemblyInfoInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\obj\Debug\net5.0\TreeStructure.AssemblyInfo.cs
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\obj\Debug\net5.0\TreeStructure.csproj.CoreCompileInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\obj\Debug\net5.0\TreeStructure.dll
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\obj\Debug\net5.0\ref\TreeStructure.dll
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\obj\Debug\net5.0\TreeStructure.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\TreeStructure\TreeStructure\obj\Debug\net5.0\TreeStructure.genruntimeconfig.cache
