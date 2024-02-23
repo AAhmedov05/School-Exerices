@@ -1,0 +1,16 @@
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\bin\Debug\net5.0\TreeExercises.exe
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\bin\Debug\net5.0\TreeExercises.deps.json
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\bin\Debug\net5.0\TreeExercises.runtimeconfig.json
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\bin\Debug\net5.0\TreeExercises.runtimeconfig.dev.json
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\bin\Debug\net5.0\TreeExercises.dll
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\bin\Debug\net5.0\ref\TreeExercises.dll
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\bin\Debug\net5.0\TreeExercises.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\obj\Debug\net5.0\TreeExercises.csproj.AssemblyReference.cache
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\obj\Debug\net5.0\TreeExercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\obj\Debug\net5.0\TreeExercises.AssemblyInfoInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\obj\Debug\net5.0\TreeExercises.AssemblyInfo.cs
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\obj\Debug\net5.0\TreeExercises.csproj.CoreCompileInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\obj\Debug\net5.0\TreeExercises.dll
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\obj\Debug\net5.0\ref\TreeExercises.dll
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\obj\Debug\net5.0\TreeExercises.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\TreeExercises\obj\Debug\net5.0\TreeExercises.genruntimeconfig.cache
