@@ -1,0 +1,16 @@
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\bin\Debug\net5.0\DFSTree.exe
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\bin\Debug\net5.0\DFSTree.deps.json
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\bin\Debug\net5.0\DFSTree.runtimeconfig.json
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\bin\Debug\net5.0\DFSTree.runtimeconfig.dev.json
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\bin\Debug\net5.0\DFSTree.dll
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\bin\Debug\net5.0\ref\DFSTree.dll
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\bin\Debug\net5.0\DFSTree.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\obj\Debug\net5.0\DFSTree.csproj.AssemblyReference.cache
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\obj\Debug\net5.0\DFSTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\obj\Debug\net5.0\DFSTree.AssemblyInfoInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\obj\Debug\net5.0\DFSTree.AssemblyInfo.cs
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\obj\Debug\net5.0\DFSTree.csproj.CoreCompileInputs.cache
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\obj\Debug\net5.0\DFSTree.dll
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\obj\Debug\net5.0\ref\DFSTree.dll
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\obj\Debug\net5.0\DFSTree.pdb
+D:\Users\U602\Documents\12a_ASD_Group1\DFSTree\obj\Debug\net5.0\DFSTree.genruntimeconfig.cache
