@@ -1,0 +1,14 @@
+.tableLayout,tr,th,td{
+    border: 2px solid white;
+    color: white;
+    text-align: center;
+}
+.tableLayout{
+  padding: 0;
+  margin: 0;  
+}
+main{
+    border-radius: 15px;
+    padding: 20px;
+    background-color: #345171;
+}

@@ -1,5 +1,8 @@
 .specialtySections{
     padding: 20px 50px; 
+    background-color: #345171;
+    border-radius: 20px;
+    color:white;
 }
 
 .tryImg{
