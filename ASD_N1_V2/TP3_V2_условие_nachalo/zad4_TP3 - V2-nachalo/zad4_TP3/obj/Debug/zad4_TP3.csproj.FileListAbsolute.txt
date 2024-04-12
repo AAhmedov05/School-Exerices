@@ -1,0 +1,28 @@
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3\zad4_TP3\bin\Debug\zad4_TP3.exe.config
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3\zad4_TP3\bin\Debug\zad4_TP3.exe
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3\zad4_TP3\bin\Debug\zad4_TP3.pdb
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3\zad4_TP3\obj\Debug\zad4_TP3.csprojAssemblyReference.cache
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3\zad4_TP3\obj\Debug\zad4_TP3.csproj.CoreCompileInputs.cache
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3\zad4_TP3\obj\Debug\zad4_TP3.exe
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3\zad4_TP3\obj\Debug\zad4_TP3.pdb
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1\zad4_TP3\bin\Debug\zad4_TP3.exe.config
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1\zad4_TP3\bin\Debug\zad4_TP3.exe
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1\zad4_TP3\bin\Debug\zad4_TP3.pdb
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1\zad4_TP3\obj\Debug\zad4_TP3.csprojAssemblyReference.cache
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1\zad4_TP3\obj\Debug\zad4_TP3.csproj.CoreCompileInputs.cache
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1\zad4_TP3\obj\Debug\zad4_TP3.exe
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1\zad4_TP3\obj\Debug\zad4_TP3.pdb
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1-решение\zad4_TP3\bin\Debug\zad4_TP3.exe.config
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1-решение\zad4_TP3\bin\Debug\zad4_TP3.exe
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1-решение\zad4_TP3\bin\Debug\zad4_TP3.pdb
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1-решение\zad4_TP3\obj\Debug\zad4_TP3.csprojAssemblyReference.cache
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1-решение\zad4_TP3\obj\Debug\zad4_TP3.csproj.CoreCompileInputs.cache
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1-решение\zad4_TP3\obj\Debug\zad4_TP3.exe
+D:\2022-2023 учебна година\АСД-12клас Мои приложен програмист\My_Раздел 4 Дървета и графи\PT3-tree\zad4_TP3 - V1-решение\zad4_TP3\obj\Debug\zad4_TP3.pdb
+D:\Users\U602\Desktop\ASD_N1_V2\TP3_V2_условие_nachalo\zad4_TP3 - V2-nachalo\zad4_TP3\bin\Debug\zad4_TP3.exe.config
+D:\Users\U602\Desktop\ASD_N1_V2\TP3_V2_условие_nachalo\zad4_TP3 - V2-nachalo\zad4_TP3\bin\Debug\zad4_TP3.exe
+D:\Users\U602\Desktop\ASD_N1_V2\TP3_V2_условие_nachalo\zad4_TP3 - V2-nachalo\zad4_TP3\bin\Debug\zad4_TP3.pdb
+D:\Users\U602\Desktop\ASD_N1_V2\TP3_V2_условие_nachalo\zad4_TP3 - V2-nachalo\zad4_TP3\obj\Debug\zad4_TP3.csproj.AssemblyReference.cache
+D:\Users\U602\Desktop\ASD_N1_V2\TP3_V2_условие_nachalo\zad4_TP3 - V2-nachalo\zad4_TP3\obj\Debug\zad4_TP3.csproj.CoreCompileInputs.cache
+D:\Users\U602\Desktop\ASD_N1_V2\TP3_V2_условие_nachalo\zad4_TP3 - V2-nachalo\zad4_TP3\obj\Debug\zad4_TP3.exe
+D:\Users\U602\Desktop\ASD_N1_V2\TP3_V2_условие_nachalo\zad4_TP3 - V2-nachalo\zad4_TP3\obj\Debug\zad4_TP3.pdb
